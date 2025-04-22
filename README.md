@@ -1,4 +1,4 @@
-# README: Installing and Configuring Mosquitto on Windows (Step-by-Step)
+# Installing and Configuring Mosquitto on Windows (Step-by-Step)
 
 This guide explains how to install, configure, and secure a Mosquitto MQTT broker instance on Windows 10/11, including setting up firewall rules and connecting via MQTT Explorer.
 
